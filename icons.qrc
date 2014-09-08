@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon/Aha-Soft-Large-Seo-SEO-disabled.ico</file>
+        <file>icon/Aha-Soft-Large-Seo-SEO.ico</file>
+        <file>icon/Chaninja-Chaninja-Search-Results.ico</file>
+        <file>icon/Double-J-Design-Ravenna-3d-Database-Table.ico</file>
+        <file>icon/Gordon-Irving-IWork-10-Numbers-white.ico</file>
+        <file>icon/Hamzasaleem-Iwork-Style-2-Numbers.ico</file>
+        <file>icon/Iconshow-Construction-Drawing.ico</file>
+        <file>icon/Tpdkdesign.net-Refresh-Cl-Windows-Table.ico</file>
+        <file>icon/Zyotism-2001-Space-Odyssey-TMA-1-Status-Field-Survey-Analysis.ico</file>
+    </qresource>
+</RCC>
